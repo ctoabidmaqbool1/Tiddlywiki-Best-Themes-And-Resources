@@ -1,2 +1,5 @@
-# Tiddlywiki-Best-Themes-And-Resources
-A repo about Tiddlywiki best themes, plugins and related tools!
+# Clever Note
+![Clever Note Screenshot](../screenshots/clevernote.png)
+
+# Timimi
+![Timimi Screenshot](../screenshots/timimi.png)
