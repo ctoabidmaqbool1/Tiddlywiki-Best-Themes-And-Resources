@@ -10,5 +10,7 @@
 
 * Link: https://ibnishak.github.io/Tesseract/projects/tekan/Tekan.html
 * Link: https://ibnishak.github.io/Tesseract/projects/tekan/
+* Link: https://github.com/ibnishak/Tesseract/blob/master/projects/tekan/Tekan.html
+* Link: https://github.com/ibnishak/Tesseract/blob/master/projects/tekan/index.html
 
   ![Tekan Screenshot](../screenshots/tekan.png)

@@ -1,6 +1,7 @@
 # Clever Note
 
 * Link: https://ibnishak.github.io/Tesseract/projects/CleverNote%20Beta.html
+* Link: https://github.com/ibnishak/Tesseract/blob/master/projects/CleverNote%20Beta.html
 
   ![Clever Note Screenshot](../screenshots/clevernote.png)
 
