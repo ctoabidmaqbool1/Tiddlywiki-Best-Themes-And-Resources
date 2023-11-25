@@ -7,7 +7,7 @@
 
 # Timimi
 
-* Link: https://ibnishak.github.io/Timimi/
+* Link: https://ibnishak.github.io/Timimi/index.html
 * Link: https://github.com/ibnishak/Timimi/blob/master/index.html
 
   ![Timimi Screenshot](../screenshots/timimi.png)
